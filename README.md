@@ -21,7 +21,7 @@ Your task now is to decipher the terms given, using the shift numbers which are 
 In the year 2000, malware called ILOVEYOU spread like wildfire and caused billions of dollars in damages. This was one of the worst viruses to ever hit the internet, and it showed just how vulnerable we are to cyberattacks.
 _The decrypted message is **Flag 1.1**_
 > **2.** I am a number that Ramanujan loved,
-In "nineteen," my count is what he approved.
+> In "nineteen," my count is what he approved.
 
 
 ## CAPTCHA
@@ -29,5 +29,4 @@ We all have seen CAPTCHA on various websites. But, did you know that the full fo
 ‘Completely Automated Public Turing Test to Tell Computers and Humans Apart’?
 _The decrypted message is **Flag 1.2**_
 
-Flags 1.1 and 1.2 are **usernames** to accounts in one of the most popular social media platforms, which was founded by Kevin Systrom & Mike Krieger
-
+**Flag 1.1** and **Flag 1.2** are **usernames** of accounts in one of the most popular social media platforms, which was founded by Kevin Systrom & Mike Krieger
