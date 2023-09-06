@@ -1,7 +1,7 @@
 # **Meraki**
 Welcome to the first level of this capture the flag event. Given below are some interesting tid-bits of information which is to be used to reach the next stage. Good luck!
 ## Caesar Cipher
-A Caesar cipher is a simple method of encoding messages. Caesar ciphers use a substitution method where letters in the alphabet are shifted by some fixed number of spaces to yield an encoding alphabet. A Caesar cipher with a shift of 3 would encode an A as a **D**, an M as a **P**, and a Z as a **C**, and so on. The method is named after Roman leader Julius Caesar, who used it in his private correspondence. 
+A Caesar cipher is a si**M**ple method of en**C**oding mess**A**ges. Caesar ciphers use a substitution method where letters in the alphabet are shifted by some fixed number of spaces to yield an encoding alphabet. A Caesar cipher with a shift of 3 would encode an A as a D, an M as a P, and a Z as a C, and so on. The method is named after Roman leader Julius Caesar, who used it in his private correspondence. 
 
 ![N|Solid](https://ds055uzetaobb.cloudfront.net/brioche/uploads/7kJpXQqFoJ-800px-caesar3svg.png?width=600)
 
